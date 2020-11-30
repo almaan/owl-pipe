@@ -1,0 +1,4 @@
+
+DEMUXBYNAME: "/home/satac/pkgs/bbmap/demuxbyname.sh"
+REFORMAT: "/home/satac/pkgs/bbmap/reformat.sh"
+FEATURECOUNTS: "/home/satac/rsc/subread-2.0.1-Linux-x86_64/bin/featureCounts"
