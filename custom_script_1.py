@@ -55,6 +55,7 @@ def run(PTH : str,
          start_umi : int,
          i1_len : int,
          i2_len : int,
+        verbose : bool = False,
          )->None:
 
     reads = [[],[]]
